@@ -44,5 +44,4 @@ Implemented a custom Weighted Ensemble Model combining the predictions of XGBoos
 ## 📁 Repository Structure
 * `Notebook.ipynb`: The main Jupyter Notebook containing all data cleaning, EDA, feature engineering, and model training code.
 * `Uber-Jan-Feb-FOIL.csv`: The dataset used for training and testing.
-* `Uber Trip Analysis Machine Learning Project (Data Analyst).pdf`: Detailed project report and findings.
 
